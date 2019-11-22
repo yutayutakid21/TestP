@@ -20,7 +20,16 @@ class ViewController: UIViewController {
         
         
         super.viewDidLoad()
+        
+        stringAdd()
         // Do any additional setup after loading the view.
+    }
+    
+    func stringAdd()->String{
+        
+       var text = "10"
+        
+        return text
     }
 
 

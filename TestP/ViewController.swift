@@ -12,7 +12,11 @@ class ViewController: UIViewController {
     
     
     var age = 0
-        
+    
+    var gender = 0
+
+    var geoid = 0
+    
     var string = String()
     
     override func viewDidLoad() {
